@@ -24,3 +24,25 @@ The dataset can be found at:
 
 Kaggle Link: Netflix Dataset
 Tableau Dashboard: Netflix Visualization
+
+# 3. Data Visualization (Tableau Dashboard)
+Interactive Graphs for Trends
+Year-wise Addition of Netflix Content
+Top 10 Countries Producing Content
+View Dashboard: Netflix Data Visualization
+
+# 4. Conclusion and Insights
+4.1 Key Findings
+Netflix has more movies than TV shows.
+The most common genres include Dramas, Comedies, and Documentaries.
+Content production increased significantly after 2015.
+United States and India contribute the most Netflix content.
+Top Directors include Martin Scorsese, Steven Spielberg, and David Dhawan.
+4.2 Next Steps
+Feature Engineering: Extract additional features like duration in minutes, number of seasons, or multi-genre classification.
+Machine Learning: Build models for recommendation systems based on user preferences.
+Advanced Visualization: Use Power BI or Plotly for interactive charts.
+
+# 5. References
+Netflix Dataset on Kaggle
+GitHub Repository
